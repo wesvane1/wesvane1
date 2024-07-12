@@ -1,13 +1,18 @@
 ### Hi there 👋 Click "code" to preview
+- 🔭 I’m currently a Full Stack Intern for Riafox
+- 🌱 I’m currently learning Angular and Node
+- 🎓 I am set to graduate in April 2025 with a BS in Software Engieering degree and a Web Development Certificate (Angular and NodeJS)
+- 💬 Ask me about Formula One racing, I love it!
+- 📫 How to reach me: email me at wesside27@byui.edu
+
 
 <!--
 **wesvane1/wesvane1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on Programming with Data Structures, Web Backend development, and Web Frontend Development II.
-- 🌱 I’m currently learning C#, and PHP
-- 🤔 I’m looking for help with Front end development. I want to be able to make pages that look aesthetically pleasing.
-- 🎓 This is my 3rd semester as a software engineering major (working toward the web development certificate) and it has been the best change I have made!
+- 🔭 I’m currently a Full Stack Intern for Riafox
+- 🌱 I’m currently learning Angular
+- 🎓 I am set to graduate in April 2025 with a software engieering degree with a Web Development Certificate (Angular and NodeJS)
 - 💬 Ask me about Formula One racing, I love it!
 - 📫 How to reach me: email me at wesside27@byui.edu
 
