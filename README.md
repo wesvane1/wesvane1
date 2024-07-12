@@ -1,4 +1,3 @@
-### Hi there 👋 Click "code" to preview
 - 🔭 I’m currently a Full Stack Intern for Riafox
 - 🌱 I’m currently learning Angular and Node
 - 🎓 I am set to graduate in April 2025 with a BS in Software Engieering degree and a Web Development Certificate (Angular and NodeJS)
