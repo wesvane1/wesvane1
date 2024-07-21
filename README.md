@@ -1,6 +1,6 @@
 - 🔭 I’m currently a Full Stack Intern for Riafox
 - 🌱 I’m currently learning Angular and Node
-- 🎓 I am set to graduate in April 2025 with a BS in Software Engieering degree and a Web Development Certificate (Angular and NodeJS)
+- 🎓 I am set to graduate in April 2025 with a BS in Software Engieering and a Web Development Certificate (Angular and NodeJS)
 - 💬 Ask me about Formula One racing, I love it!
 - 📫 How to reach me: email me at wesside27@byui.edu
 
