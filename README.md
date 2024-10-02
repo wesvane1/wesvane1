@@ -4,7 +4,7 @@
 - 🎓 I am set to graduate in September 2025 with a BS in Software Engieering and a Web Development Certificate (Angular and NodeJS)
 - 💬 Ask me about Formula One racing, I love it!
 - 📫 How to reach me: email me at wesside27@byui.edu
-- 📫 You can also reach me on [Linkedin](www.linkedin.com/in/wesley-vane-733758253)
+- 📫 You can also reach me on www.linkedin.com/in/wesley-vane-733758253
 
 ## Technology and Tools
 - 🚀 Proficient in: Angular, Node, Python, C#, JS, TS, SCSS, HTML5
