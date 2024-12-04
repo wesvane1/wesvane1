@@ -1,5 +1,5 @@
 ## About Me
-- 🔭 I’m currently a Full Stack Intern for Riafox
+- 🔭 I’m currently a Full Stack Intern for Riafox and TORQ Sports
 - 🌱 I’m currently learning Angular and Node
 - 🎓 I am set to graduate in September 2025 with a BS in Software Engieering and a Web Development Certificate (Angular and NodeJS)
 - 💬 Ask me about Formula One racing, I love it!
