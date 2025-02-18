@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular and React
 - 🎓 I am set to graduate in April 2025 with a Bachelors in Software Engieering with an emphasis in Web Development (Angular and NodeJS)
 - 💬 Ask me about Formula One racing, I love it!
-- 📫 How to reach me: email me at wesside27@byui.edu
+- 📫 How to reach me: email me at wesleyvane13@gmail.com
 - 📫 You can also reach me on www.linkedin.com/in/wesleyvane1
 
 ## Technology and Tools
